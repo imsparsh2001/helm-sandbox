@@ -15,4 +15,4 @@ helm status my-nginx
 
 
 helm uninstall helm-nginx
-
+helm search repo bitnami | grep nginx 
